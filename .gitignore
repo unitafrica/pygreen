@@ -160,3 +160,4 @@ cython_debug/
 *~
 docs/source/_notebooks/.ipynb_checkpoints
 docs/source/_notebooks/.virtual_documents
+docs/.virtual_documents/
