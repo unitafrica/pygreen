@@ -1,0 +1,10 @@
+% Encoding: UTF-8
+
+@Book{Lutz2025lea,
+  title     = {Learning Python},
+  publisher = {O'Reilly Media},
+  year      = {2025},
+  author    = {Lutz, Mark},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

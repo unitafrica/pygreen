@@ -1,22 +1,52 @@
-Welcome to Lumache's documentation!
-===================================
+.. pygreen documentation master file, created by
+   sphinx-quickstart on Mon Dec  1 15:43:29 2025.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
++---------------+--------------------------------------+-------------------------------------+-------------------------------------+
+| |logo_unimi|  | .. image:: _images/logo_polimi.png   | .. image:: _images/logo_unitn.png   | .. image:: _images/logo_uniud.png   |
++---------------+--------------------------------------+-------------------------------------+-------------------------------------+
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
 
-.. note::
 
-   This project is under active development.
+PyGreen Python tutorials
+============================
 
-Contents
---------
+**Version** Last change: |today|
+
+This documentation contains a collection of the tutorials presented
+during the short school
+
+    *PyGreen –PYthon tools for the GREEN transition*
+
+
 
 .. toctree::
+   :maxdepth: 1
+   :caption: On-line session (December 2025):
 
-   usage
-   api
+   _notebooks/intro1
+   intro2
+   intro3
+   intro4
+   eco_hydro
+   forest
+   geostats
+   energy
+   advanced
+
+
+.. toctree::
+   :maxdepth: 1
+   :caption: General documents:
+
+   why
+   tools   
+   installation
+   about
+   license
+
+
+.. |logo_unimi| image:: _images/logo_unimi.png
+   :alt: logo unimi
+   :align: middle   
