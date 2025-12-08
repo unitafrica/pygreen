@@ -36,7 +36,7 @@ the short school
    _notebooks/intro1
    intro2
    intro3
-   intro4
+   _notebooks/intro4
    eco_hydro
    forest
    geostats
