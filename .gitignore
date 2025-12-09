@@ -1,4 +1,4 @@
-0
+
 # Created by https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,jupyternotebooks
 
@@ -160,6 +160,7 @@ cython_debug/
 *~
 docs/source/_notebooks/.ipynb_checkpoints
 docs/source/_notebooks/.virtual_documents
+docs/source/_notebooks/.virtual_documents/*.*
 docs/.virtual_documents/
 # No need to upload empy documents.
 docs/source/_notebooks/intro1_empty.ipynb
