@@ -312,8 +312,6 @@ built-in modules.
        "Dory":   {"species": "fish",  "habitat": "ocean",    "traits": ["curious"]},
    }
 
-.. code-block:: python
-
    # -----------------------
    # Lookup helpers
    # -----------------------
@@ -334,8 +332,6 @@ built-in modules.
    def get_traits(name: str):
        a = get_animal(name)
        return list(a.get("traits", [])) if a else []
-
-.. code-block:: python
 
    # -----------------------
    # Tiny knowledge helpers
